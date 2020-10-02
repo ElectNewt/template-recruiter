@@ -16,10 +16,12 @@ Thanks for the information you sent me but, could you please answer to next few 
 - Working methodologies:
 - Salary Range:
 - Is there any budget for training/events:
+- Working from home policy:
 - Other benefits like pension, insurance, gym:
 
 Please do not hesitate to add more information to the previous points as all information I can get is always welcome.
 I await hearing from you. 
 
 Have a great day, 
+
 Thanks, **{Your Name}**
