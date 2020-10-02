@@ -1,2 +1,2 @@
 # template-recruiter
-a template to reply recruiter messages 
+A site to keep default messages to sent to recruiters.
