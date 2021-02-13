@@ -7,15 +7,20 @@ Actualmente estoy contento en mi empresa, pero siempre abierto a escuchar nuevos
 
 Me encantaría que respondiera al mayor número de las preguntas:
 - Nombre de la empresa:
-- Localización de las oficinas:
+- Localización de las oficinas (parada de metro/cercanías):
 - número de empleados de la empresa:
 - número de compañeros en el equipo:
 - posibilidades de carrera dentro de la empresa:
-- cuál sería mi role:
+- si es para trabajar subcontratado, posibilidad de ser contratado por el cliente:
+- cuál sería mi rol:
 - stack tecnológico:
 - metodologías de trabajo:
+- tipo de relación contractual (contratado indefinido, freelance...):
 - rango salarial:
-- Posibilidad para trabajar desde casa:
+- posibilidad para trabajar desde casa (ahora y después de la pandemia):
+- ¿se ha vuelto a trabajar presencialmente? Si es sí, desde cuándo:
+- ¿cómo se reparte la jornada? ¿Jornada reducida viernes o en verano (especificar principio y fin)?:
+- ¿hay comedor de empresa? ¿Duración de la pausa para comer?:
 - presupuesto para formación y asistencia a eventos:
 - otros beneficios como tickets restaurante, transportes, gimnasio, seguro médico...
 
